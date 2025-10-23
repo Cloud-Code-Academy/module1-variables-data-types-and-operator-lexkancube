@@ -14,7 +14,7 @@ Through this practice repository, you'll gain foundational knowledge about:
 This foundational knowledge will prepare you for more advanced topics in Salesforce development.
 
 ## Setup
-[Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
+[Setup Overview](https://courses.cloudcodeacademy.com/products/developer-kickstart-program/categories/2157191636/posts/2185653365)
 
 ## Setup Checklist
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
